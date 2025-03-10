@@ -1,0 +1,1 @@
+# cnn-solar-potential
