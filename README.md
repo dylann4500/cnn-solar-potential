@@ -1,6 +1,6 @@
 # cnn-solar-potential
 
-Follow these links to download the necessary datasets for model training:
+Datasets for model training:
 
 https://zenodo.org/records/4520781
 
